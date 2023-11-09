@@ -10,7 +10,16 @@ In this assignment, you have the opportunity to work with real-world data to ana
 #### 1. **Dataset A: Titanic Dataset**
 #### 2. **Dataset B: HR Dataset**
 
-###### (The datasets included in the repository)
-###### ** Not allowed to take the dataset from another website.
+<hr>
+
+Dash must contain:
+- at least four different charts
+- Filter
+- Mark
+- Dash Design
+- Publish Dash
+
+###### * The datasets included in the repository.
+###### * Not allowed to take the dataset from another website.
 
 ##### Happy exploring and analyzing!
