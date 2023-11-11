@@ -1,25 +1,22 @@
 # Tableau-Lab
 
-## Choose Your Dataset
+## Age
 
-### Introduction
+This section explores the distribution of ages in the dataset.
+<img src="Age.png"/>
 
-In this assignment, you have the opportunity to work with real-world data to analyze and draw insights. Below are two datasets for you to choose from. Each dataset presents unique challenges and interesting aspects, so read through the descriptions and choose the one that aligns with your interests.
+## Gender
 
-### Dataset Options
-#### 1. **Dataset A: Titanic Dataset**
-#### 2. **Dataset B: HR Dataset**
+Here, we analyze the gender distribution among the records in the dataset.
+<img src="Gender.png"/>
 
-<hr>
+## Marital Status
 
-Dash must contain:
-- at least four different charts
-- Filter
-- Mark
-- Dash Design
-- Publish Dash
+This section provides insights into the distribution between married and single individuals in the dataset.
+<img src="Married and Single.png"/>
 
-###### * The datasets included in the repository.
-###### * Not allowed to take the dataset from another website.
+## Total Employees by Department
 
-##### Happy exploring and analyzing!
+An overview of the total number of employees in each department is presented in this analysis.
+
+<img src="Total Employees by Department.png"/>
