@@ -1,25 +1,5 @@
-# Tableau-Lab
+# HR Dashboard 
 
-## Choose Your Dataset
+### External link
+You can check the dashboard by clicking  [Here.](https://prod-uk-a.online.tableau.com/t/yasseralmubaddil/views/HR/Dashboard1)
 
-### Introduction
-
-In this assignment, you have the opportunity to work with real-world data to analyze and draw insights. Below are two datasets for you to choose from. Each dataset presents unique challenges and interesting aspects, so read through the descriptions and choose the one that aligns with your interests.
-
-### Dataset Options
-#### 1. **Dataset A: Titanic Dataset**
-#### 2. **Dataset B: HR Dataset**
-
-<hr>
-
-Dash must contain:
-- at least four different charts
-- Filter
-- Mark
-- Dash Design
-- Publish Dash
-
-###### * The datasets included in the repository.
-###### * Not allowed to take the dataset from another website.
-
-##### Happy exploring and analyzing!
