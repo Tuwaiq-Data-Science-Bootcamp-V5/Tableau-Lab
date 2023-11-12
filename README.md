@@ -23,3 +23,7 @@ Dash must contain:
 ###### * Not allowed to take the dataset from another website.
 
 ##### Happy exploring and analyzing!
+
+
+
+### This is the link of my dashboard   https://public.tableau.com/app/profile/dalal.s4497/viz/Titanic_16997829400330/Dashboard2?publish=yes
